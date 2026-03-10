@@ -1,0 +1,1 @@
+"""Data pipeline package for transaction ingestion and processing."""
